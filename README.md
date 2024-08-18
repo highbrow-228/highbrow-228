@@ -1,4 +1,6 @@
 ## Hi there 👋
+![logo](https://github.com/user-attachments/assets/0b3d5526-a6a5-4a7a-a7b9-f78c997819b0)
+
 
 <!--
 **highbrow-228/highbrow-228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
