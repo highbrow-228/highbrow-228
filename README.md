@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data science projects.
-- 🌱 I'm currently studying everything related to data science and trying to delve into it as much as possible.
-- 📫 How to contact me: write to me on LinkedIn.
-- ⚡ Fun fact: I hate apple 😆
+- 🔭 Current Mission: I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me!
+- 🌱 Learning Mode Activated: I'm on a quest to master every aspect of data science. My hobbies include understanding neural networks, binge-watching tutorials, and trying to explain complex algorithms to my cat.
+- 📫 Wanna Chat? Drop me a message on LinkedIn or send a carrier pigeon if you're feeling nostalgic.
+- ⚡ Interesting fact: I have a life mission to avoid apples. No, not a fruit! 😆
