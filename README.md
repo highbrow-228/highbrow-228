@@ -5,7 +5,6 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
 ![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=Pandas&logoColor=4d77cf)
 ![AWS](https://img.shields.io/badge/AWS-141f2e?style=for-the-badge&logo=amazon&logoColor=FF9900)
-![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=006749)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff)
