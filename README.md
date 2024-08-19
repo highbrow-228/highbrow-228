@@ -4,6 +4,7 @@
 ## <p style="font-size: 24px; font-weight: bold;">Stack:</p>
 ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
 ![LangSmith](https://img.shields.io/badge/LangSmith-LangSmith?style=for-the-badge&logo=LangSmith)
+![Numpy](https://img.shields.io/badge/Numpy-Numpy?style=for-the-badge&logo=Numpy)
 
 
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
