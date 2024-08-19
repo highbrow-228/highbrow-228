@@ -3,7 +3,6 @@
 
 ## <p style="font-size: 24px; font-weight: bold;">Stack:</p>
 ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
-![Numpy](https://img.shields.io/badge/Numpy-ffffff?style=for-the-badge&logo=Numpy&logoColor=4d77cf)
 ![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=Pandas&logoColor=4d77cf)
 ![AWS](https://img.shields.io/badge/AWS_services-141f2e?style=for-the-badge&logo=amazon&logoColor=FF9900)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=006749)
@@ -11,7 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)
 
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
