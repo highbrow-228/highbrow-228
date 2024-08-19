@@ -2,7 +2,7 @@
 ![OIG3](https://github.com/user-attachments/assets/258ab042-8789-4286-a861-d1b015b3fb1d)
 
 ## <p style="font-size: 24px; font-weight: bold;">Stack:</p>
-![LangChain](https://img.shields.io/badge/LangChain-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
+![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
 ![LangSmith](https://img.shields.io/badge/LangSmith-LangSmith?style=for-the-badge&logo=LangSmith)
 
 
