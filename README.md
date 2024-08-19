@@ -1,7 +1,7 @@
 
 ![OIG3](https://github.com/user-attachments/assets/258ab042-8789-4286-a861-d1b015b3fb1d)
 
-Stack: 
+  Stack: 
 ![LangChain](https://img.shields.io/badge/LangChain-LangChain?style=for-the-badge&logo=langchain)
 
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
