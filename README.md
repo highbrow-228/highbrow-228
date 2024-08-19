@@ -18,7 +18,9 @@
 - 🚀 ****Random trivia:**** I once figured out the optimal strategy for the game Rock-Paper-Scissors using a combination of game theory. So if you challenge me to a game, be prepared for a round of intergalactic mind games where the odds are always on my side (unless you have a secret algorithm up your sleeve)!
 
 
-## <p style="font-size: 24px; font-weight: bold;">Thank You!</p>
-Thanks for visiting my profile. Feel free to explore and connect!
+
 ###
 <p align="center" style="font-size: 24px; font-weight: bold;">Feel free to explore, connect, and join me on this epic data science adventure!</p>
+
+## <p style="font-size: 24px; font-weight: bold;">Thank You!</p>
+Thanks for visiting my profile. Feel free to explore and connect!
