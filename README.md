@@ -22,5 +22,5 @@
 ###
 <p align="center" style="font-size: 24px; font-weight: bold;">Feel free to explore, connect, and join me on this epic data science adventure!</p>
 
-### ---
+---
 Thanks for visiting my profile. Feel free to explore and connect!
