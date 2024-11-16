@@ -12,6 +12,7 @@
 
 
 ![Linux](https://img.shields.io/badge/Linux-?style=for-the-badge&logo=Linux)
+![Linux](https://img.shields.io/badge/Linux-?style=for-the-badge&logo=Linux)
 
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
