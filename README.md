@@ -2,26 +2,14 @@
 ![OIG3](https://github.com/user-attachments/assets/258ab042-8789-4286-a861-d1b015b3fb1d)
 
 ## <p style="font-size: 24px; font-weight: bold;">Stack:</p>
-![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
-![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=Pandas&logoColor=4d77cf)
-![AWS](https://img.shields.io/badge/AWS-141f2e?style=for-the-badge&logo=amazon&logoColor=FF9900)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-
-
-![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=blue)
 
 ### Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=Pandas&logoColor=4d77cf)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 
 ### Machine Learning & NLP
 ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
@@ -43,6 +31,7 @@
 ### IDE & Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux)
 
 
 
