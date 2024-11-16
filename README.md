@@ -10,6 +10,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+
+
+
+![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux&logoColor=ffffff)
+
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
 - 🌱 **Learning Mode Activated:** I'm on a quest to master every aspect of data science. My hobbies include understanding neural networks, binge-watching tutorials, and trying to explain complex algorithms to my cat. Spoiler: The cat is not impressed.
