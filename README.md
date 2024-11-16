@@ -18,6 +18,32 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=blue)
 
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=Pandas&logoColor=4d77cf)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+
+### Machine Learning & NLP
+![LangChain](https://img.shields.io/badge/-LangChain-1c3c3b?style=for-the-badge&logo=langchain)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+
+### Web Scraping
+![Scrapy](https://img.shields.io/badge/Scrapy-4285F4?style=for-the-badge&logo=scrapy&logoColor=ffffff)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-141f2e?style=for-the-badge&logo=amazon&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E5C80?style=for-the-badge&logo=seaborn&logoColor=ffffff)
+
+### IDE & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+
 
 
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
