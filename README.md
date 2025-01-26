@@ -37,6 +37,13 @@
 ![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux)
 
 
+<div style="width:100%; text-align:center; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=synthwave" alt="My most used languages stats" style="width: 300px; height: auto;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highbrow-228&theme=synthwave" alt="My GitHub Streak" style="width: 420px; height: auto;">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highbrow-228&theme=github" alt="Profile Summary" style="width: 730px; height: auto;">
+</div>
+
+
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
 - 🌱 **Learning Mode Activated:** I'm on a quest to master every aspect of data science. My hobbies include understanding neural networks, binge-watching tutorials, and trying to explain complex algorithms to my cat. Spoiler: The cat is not impressed.
