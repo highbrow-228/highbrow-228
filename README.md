@@ -38,7 +38,7 @@
 
 
 <div style="width:100%; text-align:center; display: flex; justify-content: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=ocean-gradient" alt="My most used languages stats" style="width: 300px; height: auto;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=neon-blurange" alt="My most used languages stats" style="width: 300px; height: auto;">
 </div>
 
 <div style="width:100%; text-align:center; display: flex; justify-content: center;">
