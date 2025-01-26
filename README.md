@@ -36,11 +36,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux)
 
-<div style="width:100%; text-align:center; display: flex; justify-content: center;">
+<div style="text-align:center;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=radical" alt="My most used languages stats" style="width: 300px; height: auto;">
 </div>
 
-<div style="width:100%; text-align:center; display: flex; justify-content: center;">
+<div style="text-align:center;">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highbrow-228&theme=radical" alt="Profile Summary" style="width: 730px; height: auto;">
 </div>
 
