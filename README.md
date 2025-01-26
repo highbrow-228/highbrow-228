@@ -43,6 +43,10 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highbrow-228&theme=github" alt="Profile Summary" style="width: 730px; height: auto;">
 </div>
 
+<div style="width:100%; text-align:center; display: flex; justify-content: center;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highbrow-228&theme=synthwave" alt="My GitHub Streak" style="width: 420px; height: auto;">
+</div>
+
 
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
 - 🔭 **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams are in SQL queries and matrix multiplications.
