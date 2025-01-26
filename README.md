@@ -24,6 +24,9 @@
 ![AWS](https://img.shields.io/badge/AWS-141f2e?style=for-the-badge&logo=amazon&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+### Telegram Bots
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=ffffff)
+
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E5C80?style=for-the-badge&logo=seaborn&logoColor=ffffff)
@@ -32,7 +35,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux)
-
 
 
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
