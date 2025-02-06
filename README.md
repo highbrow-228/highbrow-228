@@ -10,7 +10,7 @@
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff) | | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=ffffff) | ![Linux](https://img.shields.io/badge/Linux-2496ED?style=for-the-badge&logo=Linux) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=336791) | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00979D?style=for-the-badge&logo=opencv&logoColor=ffffff) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff) | | | | |
 
-## <p style="font-size: 24px; font-weight: bold;">Statistics of my gitHub:</p>
+## <p style="font-size: 24px; font-weight: bold;">Statistics of my GitHub:</p>
 <div style="text-align:center;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=radical" alt="My most used languages stats" style="width: 300px; height: auto;">
 </div>
