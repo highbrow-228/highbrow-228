@@ -40,7 +40,7 @@
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        🇬🇧 English - Intermediate
         
   </tr>
 </table>
