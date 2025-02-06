@@ -28,6 +28,23 @@
 - 📜 **Certifications & Work Experience:** You can check out all my certifications and work experience on LinkedIn (link in my profile header).
 
 
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Pre-Intermediate
+        
+  </tr>
+</table>
+</div>
 
 ###
 <p align="center" style="font-size: 24px; font-weight: bold;">Feel free to explore, connect, and join me on this epic data science adventure!</p>
