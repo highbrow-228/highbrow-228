@@ -12,13 +12,13 @@
 
 
 ## <p style="font-size: 24px; font-weight: bold;">Statistics of my GitHub:</p>
-<div style="text-align:center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=radical" alt="My most used languages stats" style="width: 300px; height: auto;">
-</div>
 
 <div style="text-align:center;">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highbrow-228&theme=radical" alt="Profile Summary" style="width: 730px; height: auto;">
 </div>
+
+
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=highbrow-228&layout=compact&theme=radical" alt="My most used languages stats" style="width: 300px; height: auto;">
 
 ## <p style="font-size: 24px; font-weight: bold;">About me:</p>
 - **Current Mission:** I'm knee-deep in data science projects—plotting graphs, building models, and occasionally speaking in Python. If you hear "Error 404: Sleep Not Found," that's probably me! When I finally hit the sack, my dreams were in SQL queries and matrix multiplications.
