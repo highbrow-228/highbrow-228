@@ -10,8 +10,7 @@ I build production LLM systems: RAG pipelines, agentic workflows on LangGraph an
 - **[grounded-rag](https://github.com/highbrow-228/grounded-rag)**: a knowledge-base consultant API that answers only from its sources, with confidence scoring, explicit fallback reasons and per-request tracing
 
 ## Publications
-
-- [An Approach to Building RAG Systems Based on the Enhanced Contextual Retrieval Method](https://doi.org/10.52058/2786-6025-2026-4(58)-3470-3481), *Science and Technology Today*, 2026 (with [V. Koval](https://www.linkedin.com/in/vasyl-koval-a27a74104/))
+- [An Approach to Building RAG Systems Based on the Enhanced Contextual Retrieval Method](https://doi.org/10.52058/2786-6025-2026-4(58)-3470-3481), *Science and Technology Today*, 2026 (with [V. Koval](https://www.linkedin.com/in/vasyl-koval-a27a74104/)) ([code](https://github.com/highbrow-228/contextual-retrieval-rag))
 - [Hybrid method for building a balanced Ukrainian-language news corpus for fake news detection](https://ceur-ws.org/Vol-4159/paper13.pdf), *BAITmp 2025, CEUR Workshop Proceedings* Vol-4159, 2026: a 40,000-text balanced corpus where a BiLSTM baseline reached 99.25% accuracy ([code](https://github.com/highbrow-228/Project-ML))
 
 ## Stack
