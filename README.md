@@ -1,5 +1,3 @@
-![header](https://github.com/user-attachments/assets/258ab042-8789-4286-a861-d1b015b3fb1d)
-
 # Sviatoslav Krushelnytskyi
 
 **Senior AI Engineer** · LLM agents, RAG and LLM evaluation · Python · Based in Spain
@@ -29,6 +27,18 @@ I build production LLM systems: RAG pipelines, agentic workflows on LangGraph an
 
 Ukrainian (native) · English (B2, upper-intermediate) · Polish (A2)
 
-## Contact
+## Connect with me (sviatoslav.kru@gmail.com)
 
-[LinkedIn](https://linkedin.com/in/highbrow) · [Telegram](https://t.me/sviatoslav2002) · sviatoslav.kru@gmail.com
+<p align="left">
+<a href="https://linkedin.com/in/highbrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="highbrow" height="30" width="40" /></a>
+<a href="https://t.me/sviatoslav2002" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="sviatoslav2002" height="30" width="40" /></a>
+<a href="mailto:sviatoslav.kru@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" /></a>
+</p>
+
+## GitHub stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highbrow-228&show_icons=true&locale=en&layout=compact" alt="highbrow-228 top languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=highbrow-228&show_icons=true&locale=en" alt="highbrow-228 GitHub stats" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=highbrow-228" alt="highbrow-228 GitHub streak" /></p>
